@@ -15,8 +15,6 @@ title = "Felix Schneider"
 theme = "hugo-goa"
 
 ## Hugo Built-in Features
-# disqusShortname = "https-kaapiandcode-github-io-hugo-goa-demo" # Comment out to disable Disqus.
-googleAnalytics = "XYZ"
 enableRobotsTXT = false
 
 ## Site Settings
