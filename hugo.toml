@@ -23,7 +23,7 @@ enableRobotsTXT = false
 [params]
 author = "Felix Schneider"
 intro = "Software developer"
-description = "Computer Science Student and Junior Network Automation Engineer at [DE-CIX](https://www.de-cix.net/)"
+description = "Computer Science Student and\n\nJunior Network Automation Engineer at [DE-CIX](https://www.de-cix.net/)"
 authorimage = "profilepic.jpg"
 dateformat = "Jan 2, 2006"
 
@@ -44,20 +44,3 @@ pgp = "213A72F69CFF72BCA61BC06037302D0FDAC122FC"
 copyright = "© 2023 — Felix Schneider"
 poweredby = false
 displayrssicon = false
-
-## Main Menu
-# [[menu.main]]
-#     name = "blog"
-#     weight = 100
-#     identifier = "blog"
-#     url = "/blog/"
-# [[menu.main]]
-#     name = "about"
-#     identifier = "about"
-#     weight = 200
-#     url = "/about/"
-# [[menu.main]]
-#     name = "coderag"
-#     identifier = "coderag"
-#     weight = 300
-#     url = "/coderag/"
