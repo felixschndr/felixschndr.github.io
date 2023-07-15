@@ -23,7 +23,8 @@ enableRobotsTXT = false
 [params]
 author = "Felix Schneider"
 intro = "Software developer"
-description = "Computer Science Student and\n\nJunior Network Automation Engineer at [DE-CIX](https://www.de-cix.net/)"
+description = "Computer Science Student and"
+job = "Junior Network Automation Engineer at [DE-CIX](https://www.de-cix.net/)"
 authorimage = "profilepic.jpg"
 dateformat = "Jan 2, 2006"
 
