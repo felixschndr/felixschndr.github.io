@@ -1,0 +1,63 @@
+## Basic Configuration
+
+baseurl = "https://info.fschneider.me"
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Felix Schneider"
+title = "Felix Schneider"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+# disqusShortname = "https-kaapiandcode-github-io-hugo-goa-demo" # Comment out to disable Disqus.
+googleAnalytics = "XYZ"
+enableRobotsTXT = false
+
+## Site Settings
+[params]
+author = "Felix Schneider"
+intro = "Software developer"
+description = "Computer Science Student and Junior Network Automation Engineer at [DE-CIX](https://www.de-cix.net/)"
+authorimage = "profilepic.jpg"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "Simple minimalist theme"
+keywords = "minimalist,blog,goa,hugo,developer"
+
+## Social Accounts
+[params.social]
+github = "felixschndr"
+linkedin = "felix-schneider-ka"
+email = "hello@fschneider.me"
+pgp = "213A72F69CFF72BCA61BC06037302D0FDAC122FC"
+
+## Extras
+[params.extra]
+copyright = "© 2023 — Felix Schneider"
+poweredby = false
+displayrssicon = false
+
+## Main Menu
+# [[menu.main]]
+#     name = "blog"
+#     weight = 100
+#     identifier = "blog"
+#     url = "/blog/"
+# [[menu.main]]
+#     name = "about"
+#     identifier = "about"
+#     weight = 200
+#     url = "/about/"
+# [[menu.main]]
+#     name = "coderag"
+#     identifier = "coderag"
+#     weight = 300
+#     url = "/coderag/"
