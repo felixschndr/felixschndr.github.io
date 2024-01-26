@@ -41,6 +41,6 @@ pgp = "213A72F69CFF72BCA61BC06037302D0FDAC122FC"
 
 ## Extras
 [params.extra]
-copyright = "© 2023 — Felix Schneider"
+copyright = "© 2024 — Felix Schneider"
 poweredby = false
 displayrssicon = false
