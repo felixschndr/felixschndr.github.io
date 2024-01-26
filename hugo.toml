@@ -20,7 +20,7 @@ enableRobotsTXT = false
 ## Site Settings
 [params]
 author = "Felix Schneider"
-intro = "Software developer"
+intro = "{Software developer}"
 description = "Computer Science Student and"
 job = "Junior Network Automation Engineer at [DE-CIX](https://www.de-cix.net/)"
 location = "Based in Karlsruhe, Germany"
@@ -44,3 +44,4 @@ pgp = "213A72F69CFF72BCA61BC06037302D0FDAC122FC"
 copyright = "© 2024 — Felix Schneider"
 poweredby = false
 displayrssicon = false
+highlightjs = true
