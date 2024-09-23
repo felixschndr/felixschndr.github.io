@@ -36,7 +36,7 @@ keywords = "minimalist,blog,goa,hugo,developer"
 [params.social]
 github = "felixschndr"
 linkedin = "felix-schndr"
-email = "hello@fschneider.me"
+email = "mail@fschneider.me"
 pgp = "213A72F69CFF72BCA61BC06037302D0FDAC122FC"
 
 ## Extras
