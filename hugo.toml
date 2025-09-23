@@ -20,9 +20,9 @@ enableRobotsTXT = false
 ## Site Settings
 [params]
 author = "Felix Schneider"
-intro = "{Software developer}"
+intro = "{ Software developer and Open-Source Advocate }"
 description = ""
-job = "Open-Source Advocate | Software Developer @ DE-CIX | Master’s student in computer science with a strong focus on Machine Learning"
+job = ""
 location = "Based in Karlsruhe, Germany"
 authorimage = "profilepic.jpg"
 dateformat = "Jan 2, 2006"
