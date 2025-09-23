@@ -21,8 +21,8 @@ enableRobotsTXT = false
 [params]
 author = "Felix Schneider"
 intro = "{Software developer}"
-description = "Computer Science Student and"
-job = "Junior Network Automation Engineer at [DE-CIX](https://www.de-cix.net/)"
+description = ""
+job = "Open-Source Advocate | Software Developer @ DE-CIX | Master’s student in computer science with a strong focus on Machine Learning"
 location = "Based in Karlsruhe, Germany"
 authorimage = "profilepic.jpg"
 dateformat = "Jan 2, 2006"
