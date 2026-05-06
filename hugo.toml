@@ -41,7 +41,7 @@ pgp = "mail@fschneider.me"
 
 ## Extras
 [params.extra]
-copyright = "© 2025 — Felix Schneider"
+copyright = "© 2026 — Felix Schneider"
 poweredby = false
 displayrssicon = false
 highlightjs = true
